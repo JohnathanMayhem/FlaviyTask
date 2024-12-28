@@ -85,6 +85,12 @@
 		<Unit filename="C:/Labs/FlaviyTask/main.cpp">
 			<Option target="FlaviyTask"/>
 		</Unit>
+		<Unit filename="C:/Labs/FlaviyTask/queue.cpp">
+			<Option target="FlaviyTask"/>
+		</Unit>
+		<Unit filename="C:/Labs/FlaviyTask/queue.h">
+			<Option target="FlaviyTask"/>
+		</Unit>
 		<Unit filename="C:/Labs/FlaviyTask/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
