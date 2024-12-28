@@ -3,4 +3,4 @@ project(FlaviyTask)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(FlaviyTask main.cpp)
+add_executable(FlaviyTask main.cpp queue.cpp)

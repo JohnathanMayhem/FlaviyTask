@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Labs/FlaviyTask/main.cpp" "C:/Labs/FlaviyTask/cmake-build-debug/CMakeFiles/FlaviyTask.dir/main.cpp.obj"
+  "C:/Labs/FlaviyTask/queue.cpp" "C:/Labs/FlaviyTask/cmake-build-debug/CMakeFiles/FlaviyTask.dir/queue.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

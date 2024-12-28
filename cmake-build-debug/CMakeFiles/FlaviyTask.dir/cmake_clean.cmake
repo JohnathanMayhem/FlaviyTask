@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/FlaviyTask.dir/main.cpp.obj"
+  "CMakeFiles/FlaviyTask.dir/queue.cpp.obj"
   "FlaviyTask.exe"
   "FlaviyTask.exe.manifest"
   "FlaviyTask.pdb"
